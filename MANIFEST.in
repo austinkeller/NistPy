@@ -9,3 +9,5 @@ include LICENSE
 # Include setup.py
 include setup.py
 
+# Include data files
+include src/nistpy/species.txt
